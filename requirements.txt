@@ -1,0 +1,24 @@
+
+# RAG Framework
+langchain
+langgraph
+langchain-community
+langchain-text-splitters
+
+# Vector Database
+langchain-chroma
+chromadb
+
+# Embeddings and LLM
+langchain-ollama
+
+# Document Processing
+pypdf
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Environment Variables
+python-dotenv
